@@ -1,0 +1,11 @@
+[
+  {
+    "id": "rathalos",
+    "slug": "rathalos",
+    "name": "Rathalos",
+    "game": "mh1", "englishTitle": ["Fire Wyvern", "King of the Skies"],
+    "class": "Flying Wyvern",
+    "weaknesses": ["Dragon", "Thunder"],
+    "questIds": ["trouble-in-the-hills"]
+  }
+]

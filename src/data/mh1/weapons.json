@@ -1,0 +1,12 @@
+[
+  {
+    "id": "iron-sword",
+    "slug": "iron-sword",
+    "name": "Iron Sword",
+    "game": "mh1",
+    "weaponType": "Great Sword",
+    "rarity": 1,
+    "attack": 336,
+    "affinity": 0
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "trouble-in-the-hills",
+    "slug": "trouble-in-the-hills",
+    "name": "Trouble in the Hills",
+    "game": "mh1",
+    "rank": "Village",
+    "location": "Forest and Hills",
+    "targetMonsterIds": ["rathalos"]
+  }
+]

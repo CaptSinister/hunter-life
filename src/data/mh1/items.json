@@ -1,0 +1,11 @@
+[
+  {
+    "id": "potion",
+    "slug": "potion",
+    "name": "Potion",
+    "game": "mh1",
+    "rarity": 1,
+    "buy": 66,
+    "sell": 22
+  }
+]
