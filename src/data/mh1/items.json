@@ -7,5 +7,14 @@
     "rarity": 1,
     "buy": 66,
     "sell": 22
+  },
+  {
+    "id": "herb",
+    "slug": "herb",
+    "name": "Herb",
+    "game": "mh1",
+    "rarity": 1,
+    "buy": 8,
+    "sell": 2
   }
 ]
