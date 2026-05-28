@@ -12,9 +12,9 @@ export default function HomePage() {
         <div className="mt-8">
           <Link
             href="/mh1"
-            className="inline-block rounded-lg border border-zinc-700 px-4 py-2 hover:bg-zinc-800"
-          >
-            Enter Monster Hunter 1
+            className="inline-block 
+                       rounded-lg border border-zinc-700 px-4 py-2 hover:bg-zinc-800">
+            Monster Hunter 1
           </Link>
         </div>
       </div>
